@@ -1,2 +1,4 @@
 # hello-world
 Ovo je moj prvi projektat
+
+Ovo je pocetak projekta
